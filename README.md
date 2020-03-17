@@ -16,19 +16,18 @@ It's also fully deployed on Heroku! - https://nodeburger-uofd.herokuapp.com/
 
 ### Instructions
 
-1. User selects "Find Your Match" to start the personality survey
+1. Simply type a burger you'd like to order and add...
 
-![Execute](https://github.com/jordanservos/FriendFinder/blob/master/images/FF1.png)
+2. Newly ordered burgers are moved to the left. Select "DEVOUR!" to eat!
+
+3. Once devoured, burgers are moved to the left as "Past Orders"
+
+4. You can order a burger again by selecting the "Re-Order" button in the "Past Orders" list!
+
+![Execute](https://github.com/jordanservos/Burger/blob/master/public/assets/images/Burger%20App.png)
 
 
-2. User then answers 10 personality questions 
 
-    ![Next](https://github.com/jordanservos/FriendFinder/blob/master/images/FF2.png)
-
-
-3. Based on the user answers, Friend Finder shows a modal with the best match!
-    
-    ![Next](https://github.com/jordanservos/FriendFinder/blob/master/images/FF3.png)
     
 
 
