@@ -1,0 +1,56 @@
+body {
+    background: url(../images/burger.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px 400px;
+    background-position: center 100px;
+}
+
+.changeBlock {
+    font-size: 12px;
+    color: white;
+}
+
+.delete-me {
+    font-size: 8px;
+    color: white;
+    background-color: #0D2D52;
+}
+
+#addBurger {
+    font-size: 14px;
+}
+
+#name {
+    font-size: 14px;
+}
+
+#burger-name {
+    font-size: 14px;
+}
+
+ul {
+    font-size: 14px;
+}
+
+.header {
+    max-width: 100%;
+    border: 1px solid gray;
+    box-shadow: 7px 7px 8px #888888;
+    padding: 10px;
+    margin: 20px;
+}
+
+#title {
+    color: #ec184d;
+    font-weight: bold;
+}
+
+button {
+    background-color: #ec184d;
+    color: white;
+}
+
+h5 {
+    color: #ec184d;
+    font-weight: bolder;
+}
